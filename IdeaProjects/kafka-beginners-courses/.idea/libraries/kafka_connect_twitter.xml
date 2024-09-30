@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="kafka-connect-twitter">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/kafka-connect/connectors/kafka-connect-twitter" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/kafka-connect/connectors/kafka-connect-twitter" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/kafka-connect/connectors/kafka-connect-twitter" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/kafka-connect/connectors/kafka-connect-twitter" recursive="false" type="SOURCES" />
+  </library>
+</component>
